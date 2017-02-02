@@ -20,3 +20,7 @@ Whether you work in an organization that uses test-driven development or in an o
 4. The menu element is toggled properly
 5. Atleast one entry element within each feed
 6. The feeds are loaded when we click on any feedlist element and it is unique.
+
+##Reference
+1. Frontend nanodegree feed reader testing webcast and discussion forum
+2. Jshint to follow Udacity style guide
